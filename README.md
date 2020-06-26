@@ -40,13 +40,13 @@ Reference: Li *et al.* (2002)
 We can formulate a mixed-integer linear programming (MILP), as follows,
 to define a mathematical model and solve it.
 
-Minimize $x$$y$
+Minimize xy
 
 subject to
 
-All of *n* rectangles are non-overlapping.
+All of n rectangles are non-overlapping.
 
-All of *n* rectangles are within the range of $x$ and $y$.
+All of n rectangles are within the range of x and y.
 
 $0 < x \leq \overset{??}{x}$ and $0 < y \leq \overset{??}{y}$
 ($\overset{??}{x}$ and $\overset{??}{y}$ are constants).
@@ -162,7 +162,7 @@ complicated problems (e.g. scheduling).
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[https://www.slideserve.com/gabi/np-completeness-nondeterministic-polynomial-completeness-powerpoint-ppt-presentation]{.underline}](https://www.slideserve.com/gabi/np-completeness-nondeterministic-polynomial-completeness-powerpoint-ppt-presentation)
+1\.[[https://www.slideserve.com/gabi/np-completeness-nondeterministic-polynomial-completeness-powerpoint-ppt-presentation]{.underline}](https://www.slideserve.com/gabi/np-completeness-nondeterministic-polynomial-completeness-powerpoint-ppt-presentation)
 
 2\. Li, Han-Lin, Ching-Ter Chang, Jung-Fa Tsai (2002). approximately
 global optimization for assortment problems using piecewise
