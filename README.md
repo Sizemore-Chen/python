@@ -5,6 +5,7 @@ Wei-Chin Chen
 2020/06/26
 
 
+
 Background and Motivation
 ______________________________________________________________
 Bin-packing problem is a real problem in manufacturing industries and logistics, when we want to put in more objects in a specific area or space, and vise versa. But it is also a NP-hard (non-deterministic polynomial-time hard) problem, academically, since it has numerous binary variables to define the status of objects to solve the optimal solution. With this characteristic in bin-packing problem, the solving time will exponentially increase along with the number of objects. 
