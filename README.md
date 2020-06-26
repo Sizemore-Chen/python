@@ -1,5 +1,4 @@
-# python
-Bin-Packing and Piece-Wise Linearization
+# Bin-Packing and Piece-Wise Linearization
 
 POLab
 Wei-Chin Chen
@@ -91,9 +90,10 @@ A real problem with rectangle as follows.         	I construct
   Comments
 ______________________________________________________________
 Due to the number of binary variables consisting of MILP and piecewise linearization, it is hard to solve this kind of bin-packing problem within a limited time when the number of objects or dimensions grows. Therefore, we should use or combine other methodologies (e.g. meta-heuristic algorithms) to resolve the curse of dimension in more complicated problems (e.g. scheduling). 
+
  Reference
 ______________________________________________________________
-https://www.slideserve.com/gabi/np-completeness-nondeterministic-polynomial-completeness-powerpoint-ppt-presentation
+1. https://www.slideserve.com/gabi/np-completeness-nondeterministic-polynomial-completeness-powerpoint-ppt-presentation
 2. Li, Han-Lin, Ching-Ter Chang, Jung-Fa Tsai (2002). approximately global optimization for assortment problems using piecewise linearization techniques. European Journal of Operational Research 140 (2002) 584–589 
 3. Li, H.-L., J. -F. Tsai and N. -Z. Hu (2003). A Distributed Global Optimization Method for Packing Problems. The Journal of the Operational Research Society, Vol. 54, No. 4, pp. 419-425 
 4. Pentico, D.W., The assortment problem with nonlinear cost functions, Operations Research 24 (6) (1976) 1129–1142 
